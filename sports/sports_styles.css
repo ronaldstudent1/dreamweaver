@@ -1,0 +1,36 @@
+@charset "utf-8";
+body {
+	background-color: #FF6600;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #666;
+}
+.img_left_float {
+	margin-right: 10px;
+	float: left;
+	margin-left: 0px;
+	border: thin solid #333;
+}
+table {
+	width: 960px;
+	height: 300px;
+	text-align: center;
+	font-size: 18px;
+	border: thin solid #000;
+}
+.tableheader {
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+.newsletter_field {
+	text-align: left;
+	float: left;
+}
