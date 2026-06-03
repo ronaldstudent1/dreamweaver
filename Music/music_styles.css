@@ -1,0 +1,48 @@
+@charset "utf-8";
+body {
+	background-color: #FF6600;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-style: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #333;
+}
+.date {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-style: italic;
+	font-weight: bold;
+	color: #003;
+}
+.img_top {
+	border: medium solid #000;
+}
+.img_right_float {
+	border: medium solid #000;
+	float: right;
+	margin-right: 0px;
+	margin-left: 5px;
+}
+table {
+	width: 360px;
+	height: 360px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+	border: medium solid #000;
+}
+.formtable {
+	width: 960px;
+}
+.formcheckbox {
+	float: left;
+	text-align: left;
+}
