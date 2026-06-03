@@ -1,0 +1,35 @@
+@charset "utf-8";
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333;
+}
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #333;
+}
+
+.body_text {	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_bar {	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.small_text {	font-size: small;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.ingredients_list {
+	text-indent: 30px;
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}.img_left_float {
+	border: thin solid #333;
+	float: left;
+	margin-right: 10px;
+}
