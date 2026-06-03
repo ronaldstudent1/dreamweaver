@@ -1,0 +1,61 @@
+@charset "utf-8";
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333;
+}
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #333;
+}
+
+.body_text {	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav_bar {	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.small_text {	font-size: small;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.img_left_float {
+	margin: 15px;
+	float: left;
+	border: thin solid #000000;
+}
+.ingredients_list {
+	text-indent: 30px;
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}.img_bottom_float {
+	margin-bottom: auto;
+	vertical-align: bottom;
+}
+.img_right_float {
+	float: right;
+	border: thin solid #000;
+}
+table {
+	width: 180px;
+	font-weight: normal;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.table_Header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bolder;
+}
+img {
+	border: medium solid #000;
+}
+.table_form {
+	width: 850px;
+	border: thin solid #000;
+}
