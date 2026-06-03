@@ -1,0 +1,24 @@
+@charset "utf-8";
+body {
+	background-color: #800000;
+}
+
+p {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.ListText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+}
+.BodyText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+}
+.img_left_float {
+	float: none;
+	border: medium solid #000;
+}
